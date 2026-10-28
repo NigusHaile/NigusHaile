@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi there, I'm Nigus Bezabh Haile 👋
+# Hi there, I am Nigus Bezabh Haile 👋
 
 ### AI/ML Engineer | Computer Vision | Medical AI | Deep Learning | Software Engineering
 
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-📍 Milan, Italy | 🌍 Originally from Ethiopia
+🌍 Originally from Ethiopia
 
 </div>
 
