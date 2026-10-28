@@ -27,8 +27,6 @@
 
 ## 👨‍💻 About Me
 
-I'm a master's student in **Artificial Intelligence for Science and Technology (AI4ST)** in Italy, specializing in **Sensing and Signal/Image Processing for Healthcare and the Environment**.
-
 I hold a BSc in Computer Science and Engineering from Mekelle University, Ethiopia, graduating with a **3.96/4.00 CGPA and ranking in the top 1% of 800+ engineering students**. I bring over four years of experience spanning software engineering, data analytics, and machine learning.
 
 My interests lie at the intersection of **Computer Vision, Medical AI, Deep Learning, Explainable AI, and AI Engineering**. I enjoy designing experiments, comparing model architectures, analyzing model behavior, and translating technical ideas into practical applications.
@@ -49,7 +47,7 @@ I believe effective AI development requires more than achieving a high accuracy 
 
 ## 🧪 Featured Research & AI Projects
 
-### 🩺 1. VisionCare AI — Retinal OCT Disease Classification
+### 1 VisionCare AI:  Retinal OCT Disease Classification
 
 **Focus:** Deep learning for retinal imaging and multi-class medical image classification.
 
@@ -78,7 +76,7 @@ VisionCare AI explores deep learning approaches for classifying retinal optical 
 
 ---
 
-### 🛰️ 2. Aerial Scene AI — Land-Use Classification
+### 2. Aerial Scene AI: Land-Use Classification
 
 **Focus:** Computer vision, Vision Transformers, parameter-efficient fine-tuning, and visual explainability.
 
@@ -103,7 +101,7 @@ This project investigates image classification across **21 land-use categories**
 
 ---
 
-### 🧠 3. MindX AI — Data Analysis & Explainable AI
+### 3. MindX AI: Data Analysis & Explainable AI
 
 **Focus:** Unsupervised learning, Bayesian networks, and interpretable machine learning.
 
@@ -127,7 +125,7 @@ This project explores patterns in a dataset containing approximately **413,000 r
 
 ---
 
-### 🏥 4. Afya — Multiple Disease Prediction System
+### 4. Afya: Multiple Disease Prediction System
 
 **Focus:** Machine learning for healthcare decision support.
 
@@ -151,7 +149,7 @@ Afya is a prototype that explores predicting risk for diabetes, malaria, and hea
 
 ---
 
-### 📜 5. Ethiopian Manuscript OCR — Ge'ez, Amharic & Tigrigna
+### 5. Ethiopian Manuscript OCR: Ge'ez, Amharic & Tigrigna
 
 **Focus:** Optical character recognition and cultural heritage digitization.
 
@@ -172,7 +170,7 @@ This project explores OCR for handwritten manuscripts in Ge'ez, Amharic, and Tig
 
 ---
 
-## 💼 Software Engineering & Data Analytics
+## Software Engineering & Data Analytics
 
 My experience extends beyond model development into production-oriented software, analytics, and backend systems.
 
@@ -250,14 +248,7 @@ Additional experience: REST APIs, Swagger/OpenAPI, Node.js, MySQL, PostgreSQL, d
 ---
 
 ## 📚 Education
-
-### MSc in Artificial Intelligence for Science and Technology
-**University of Milano-Bicocca, University of Milan & University of Pavia**  
-Milan, Italy | September 2025 – Expected July 2027
-
-Specialization: **Sensing and Signal/Image Processing for Healthcare and the Environment**
-
-Relevant areas of study include:
+Relevant areas of I am exploring noe includes:
 
 - Machine learning and deep learning
 - Computer vision and AI for signal/image processing
@@ -295,7 +286,7 @@ I believe technical growth is even more meaningful when knowledge and opportunit
 
 ## 🔭 Current Research Interests
 
-I'm especially interested in exploring:
+I am especially interested in exploring:
 
 - **Medical image analysis:** Deep learning for retinal imaging and other healthcare imaging modalities.
 - **Label-efficient learning:** Learning useful representations when labeled medical data is limited.
@@ -353,7 +344,7 @@ I'm happy to connect with AI researchers, software engineers, students, and orga
 - 📧 **Email:** [n.haile@campus.unimib.it](mailto:n.haile@campus.unimib.it)
 - 🐙 **GitHub:** [github.com/NigusHaile](https://github.com/NigusHaile)
 
-If you're interested in computer vision, medical AI, machine learning, or building practical AI applications, feel free to reach out.
+If you are interested in computer vision, medical AI, machine learning, or building practical AI applications, feel free to reach out.
 
 ---
 
