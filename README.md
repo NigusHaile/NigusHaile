@@ -3,7 +3,7 @@
 
 # Hi there, I am Nigus Bezabh Haile 👋
 
-### AI/ML Engineer | Computer Vision | Medical AI | Deep Learning | Software Engineering
+### AI/ML Engineer | Computer Vision | Medical AI | Deep Learning
 
 **Building intelligent systems that connect AI research with real-world impact.**
 
